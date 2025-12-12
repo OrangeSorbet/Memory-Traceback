@@ -1,0 +1,68 @@
+Ah yes! Let’s add **import/export features** to the list and consolidate everything properly. Here’s the updated full list of features you mentioned:
+
+---
+
+## **1. Secret Menu**
+
+* **Text**: editable
+* **Font picker**
+* **Text color picker**
+* **Background color picker**
+* **Password**: editable
+* **Hint**: editable
+* **Behavior**: No password required if the website has no data
+* **Admin Menu Password**: editable (base password: 12006)
+
+---
+
+## **2. Title & Subtitle (Site/Timeline Header)**
+
+* **Title text**: editable
+* **Subtitle text**: editable
+* **Font picker**
+* **Text color picker**
+* **Draggable** (can move around the canvas)
+* **Animation options**: multiple choices like Instagram text boxes
+
+---
+
+## **3. Polaroids**
+
+* **Title**: editable
+* **Date**: editable
+* **Location**: editable
+* **Subtitle**: editable
+* **Font picker** for all text
+* **Text color picker** for all text
+* **Polaroid background color**: editable
+* **Slight draggable effect** to make polaroids “alive”
+* **Apply to all** button: applies current customization to all polaroids, updates **one by one** to handle 1000+ items safely
+
+---
+
+## **4. Import/Export System**
+
+* **Import**:
+
+  * Load **metadata and photos** in multiple parts
+  * Remove unnecessary single-file or text import options
+  * Import zip files containing multiple parts
+* **Export**:
+
+  * Export as multiple parts
+  * Export as **zip containing multiple parts** for easier user handling
+* **Progress overlay** while importing/exporting large files
+
+---
+
+## **5. Admin Menu**
+
+* Shows a **list of all editable items** for the user to see what can be changed
+* **Editable password** for admin login
+* **Notification** if secret menu has no password
+
+---
+
+If you want, I can **turn this full list into an actual structured admin menu interface**, so the admin can see and edit **all these options in one place**, with color pickers, font pickers, draggable previews, and live updates.
+
+Do you want me to do that next?
